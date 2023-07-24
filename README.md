@@ -1,3 +1,3 @@
 # FE_NewsWatch
-https://nguyenthien0110.github.io/FE_NewsWatch/
-news-watch-production.up.railway.app
+FE: https://fenewswatch-production.up.railway.app/
+BE: https://news-watch-production.up.railway.app
