@@ -38,7 +38,7 @@ function loadPosts() {
                     <td data-toggle="tooltip" data-html="true" title="${category}">${truncateText(category, 100)}</td>
                     <td>${post.createdAt}</td>
                     <td>
-                        <a href="#editEmployeeModal" class="edit" data-toggle="modal"><i class="material-icons"
+                        <a href="#editPostModal" class="edit" data-toggle="modal"><i class="material-icons"
                                 data-toggle="tooltip" title="Edit">&#xE254;</i></a>
                         <a href="#deletePostModal" class="delete" data-toggle="modal" data-id="${post.id}"><i
                                 class="material-icons" data-toggle="tooltip" title="Delete">&#xE872;</i></a>
