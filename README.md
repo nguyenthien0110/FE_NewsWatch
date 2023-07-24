@@ -1,3 +1,3 @@
 # FE_NewsWatch
-FE: https://fenewswatch-production.up.railway.app/
-BE: https://news-watch-production.up.railway.app
+FE: fenewswatch-production.up.railway.app/
+BE: news-watch-production.up.railway.app
